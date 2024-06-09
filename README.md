@@ -1,6 +1,6 @@
 # Rust - 101
 
-Welcome to **Rust - 101**, a comprehensive repository designed to introduce you to the Rust programming language. This repository contains examples, exercises, and notes to help you get started with Rust, a systems programming language known for its safety, speed, and concurrency.
+Welcome to **Rust - 101**! This repository contains examples, exercises, and notes to help you get started with Rust, a systems programming language known for its safety, speed, and concurrency.
 
 ## Introduction
 
