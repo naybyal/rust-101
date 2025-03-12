@@ -8,6 +8,6 @@ Rust is a statically-typed programming language that guarantees memory safety wi
 
 ## Prerequisites
 
-Before you start, you should have a basic understanding of programming concepts. Familiarity with systems programming languages like C or C++ is helpful but not necessary.
+Before you start, you should have a basic understanding of programming concepts. Familiarity with systems programming languages like C or C++ is helpfu.
 
 
