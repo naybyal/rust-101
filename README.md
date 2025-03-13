@@ -4,7 +4,7 @@ Welcome to **Rust - 101**! This repository contains examples, exercises, and not
 
 ## Introduction
 
-Rust is a statically-typed programming language that guarantees memory safety without using a garbage collector. It’s designed for performance and safety, particularly safe concurrency. This repository will guide you through the basics of Rust, from setting up your environment to writing your first Rust program.
+Rust is a statically-typed programming language that guarantees memory safety without using a garbage collector. It’s designed for performance and safety, particularly safe concurrency.
 
 ## Prerequisites
 
