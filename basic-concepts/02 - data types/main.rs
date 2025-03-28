@@ -14,7 +14,6 @@ fn main() {
     // let five_hundred = tup.0;
     // println!("The value of five_hundred is: {}", five_hundred);
 
-
     // array
     // let a = [1, 2, 3, 4, 5];
     // arrays in Rust have a fixed length
