@@ -23,7 +23,7 @@ fn main() {
     -- borrow
 
 
-    fn main() {
+ fn main() {
 	    let mut x = vec![1, 2, 3];
 	    modify_vec(&mut x); // mutable borrow of x
 	    print_vec(&x); // immutable borrow of x
