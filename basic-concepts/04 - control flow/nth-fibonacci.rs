@@ -10,6 +10,7 @@ fn fibonacci(n: u32) -> u32 {
 
 fn main() {
     println!("Nth Fibonacci Number\nReading n :");
+
     let mut n = String::new();
     io::stdin()
         .read_line(&mut n)
